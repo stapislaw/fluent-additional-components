@@ -1,0 +1,24 @@
+{
+  "name": "fluent-additional-components",
+  "version": "0.1.0",
+  "description": "Additional components for @fluentui/react - PropertyGrid",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "author": "stapislaw",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stapislaw/fluent-additional-components.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@fluentui/react": "^8.71.1",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
